@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "mato9020.github.io/static/css/main.2eb0803a.chunk.css",
+    "main.js": "mato9020.github.io/static/js/main.3da59213.chunk.js",
+    "main.js.map": "mato9020.github.io/static/js/main.3da59213.chunk.js.map",
+    "runtime-main.js": "mato9020.github.io/static/js/runtime-main.bdbb0cef.js",
+    "runtime-main.js.map": "mato9020.github.io/static/js/runtime-main.bdbb0cef.js.map",
+    "static/js/2.261f5561.chunk.js": "mato9020.github.io/static/js/2.261f5561.chunk.js",
+    "static/js/2.261f5561.chunk.js.map": "mato9020.github.io/static/js/2.261f5561.chunk.js.map",
+    "index.html": "mato9020.github.io/index.html",
+    "precache-manifest.da240d8514f78f7522700756f9b58d99.js": "mato9020.github.io/precache-manifest.da240d8514f78f7522700756f9b58d99.js",
+    "service-worker.js": "mato9020.github.io/service-worker.js",
+    "static/css/main.2eb0803a.chunk.css.map": "mato9020.github.io/static/css/main.2eb0803a.chunk.css.map",
+    "static/js/2.261f5561.chunk.js.LICENSE": "mato9020.github.io/static/js/2.261f5561.chunk.js.LICENSE",
+    "static/media/logo.svg": "mato9020.github.io/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "mato9020.github.io/static/media/profile.b2c824af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdbb0cef.js",
+    "static/js/2.261f5561.chunk.js",
+    "static/css/main.2eb0803a.chunk.css",
+    "static/js/main.3da59213.chunk.js"
+  ]
+}
